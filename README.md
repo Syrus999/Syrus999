@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syrus999
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning ...
-- I'm a junior developer at DevSoc Bits Goa
+- I'm was junior developer at DevSoc Bits Goa
 - 📫 How to reach me - shirishpatel641@gmail.com
 
 <!---
